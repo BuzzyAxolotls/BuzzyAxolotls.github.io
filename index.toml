@@ -99,6 +99,11 @@ hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
+metafile = true
+
+[[files]]
 file = "mods/the-aether-redux.pw.toml"
 hash = "59f7a275a507dacff587d071d71896d6bb44fab67f2cd4483e9a2c2c63453447"
 metafile = true
