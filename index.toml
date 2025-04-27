@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "gitattributes.txt"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore.txt"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -51,6 +59,16 @@ hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest-the-lost-blocks.pw.toml"
+hash = "8a867e0c9f81bf30f9b151a1533d988a05a612e72519d64b6270cb51a0f2644f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "74b4ea5279c7fa9965ced3d9d02d42aeaf1b213314e3e9b5c5747a36ae6e9648"
 metafile = true
@@ -59,3 +77,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8415f043e1b75f3ef11c990896598389343f87be9d133edd866e466c626fb31e"
 metafile = true
+
+[[files]]
+file = "packwizignore.txt"
+hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
