@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-extras.pw.toml"
-hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
+hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
 metafile = true
 
 [[files]]
