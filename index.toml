@@ -104,6 +104,11 @@ hash = "e0b611005c8d2142ca889e850c9f1450f45b1d30086aa8743579dde6ab1bd9af"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
+metafile = true
+
+[[files]]
+file = "mods/bubble-boots.pw.toml"
+hash = "de5a98a24e41c2d74cbc99554d9d5be9b2d3e67f7e002e9cf8b0c85bf7e04318"
 metafile = true
 
 [[files]]
