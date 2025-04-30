@@ -254,6 +254,11 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "ae315f4c86cfb25a4c18f443c763fe845f7c483d3d0bbf063155ab8017ba2225"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "beda705d37da2e3ead89c3785954aa5ac3875174e874d31dc5b6078c57544a8e"
 metafile = true
