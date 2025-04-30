@@ -1,0 +1,14 @@
+name = "Logical Zoomn"
+filename = "logical_zoom-0.0.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bOImuGU/versions/boSI7tyG/logical_zoom-0.0.20.jar"
+hash-format = "sha256"
+hash = "b7eab522aa00ea9657ba035274397fa42632cf2d591d4f250e2ffd7cc20752ae"
+
+[update]
+[update.modrinth]
+mod-id = "8bOImuGU"
+version = "boSI7tyG"
+
