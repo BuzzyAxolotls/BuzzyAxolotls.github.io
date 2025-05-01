@@ -74,6 +74,21 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
+metafile = true
+
+[[files]]
+file = "mods/ars-ocultas.pw.toml"
+hash = "78b949418327bb4efbc97d68ec291abfdbe9728040e5f7e52320834a1960237f"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
 metafile = true
@@ -274,6 +289,11 @@ hash = "ae315f4c86cfb25a4c18f443c763fe845f7c483d3d0bbf063155ab8017ba2225"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "beda705d37da2e3ead89c3785954aa5ac3875174e874d31dc5b6078c57544a8e"
 metafile = true
@@ -299,6 +319,11 @@ hash = "0ecdd609ce9f0d7be12e7e7dfd8317152c7c93164afe8e5c92dcfcb80c7a26e8"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "a5d778139d22ab0993dc8c7dcea99902c31da3f5ef7f6936e5c29e4cb159c174"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "7b99af69051b8e607d955c53d77acb62d74899b8f83ada62750a3e3baa3417c8"
 metafile = true
@@ -306,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "6ae126a7cff8e32d017433e0d443608c6c9fe1303ff5d25c0b771b6a49814193"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "bb773a57d9a31e4e5e67de1e3e728dd7169da286e5ab6e68e650b7b0d4ae4f82"
 metafile = true
 
 [[files]]
@@ -356,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "d668582ea913944b31fda3e0cbe8bd7fda3852f960bd4f7a58fe9bba526a9037"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "012fbd814f3eee957d4939478d1da20876273de25b5d240ee51b404037ecdb4b"
 metafile = true
 
 [[files]]
