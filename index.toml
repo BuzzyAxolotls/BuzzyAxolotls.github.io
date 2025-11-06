@@ -258,7 +258,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "c0e2734610d5c278a4b7703170ab987c4f44ff6cc8fc799722b9f33bb12ea85b"
+hash = "ec54e2ceed7fa0a6b9f87838dfe4723d0cbb1a9f060ce22877b05b5484fe6e85"
 
 [[files]]
 file = "config/modonomicon-client.toml"
