@@ -894,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2a24f94c451525fc4a19b602c257761cca90f58871d21ec49bbf5660005c9d25"
+hash = "5523aad19879130ce452c52d38cd5cfd3ebf13bf2baf601ea00a2c03ac0c071d"
 
 [[files]]
 file = "resourcepacks/twilight-forest-jappa-pack.pw.toml"
