@@ -533,11 +533,6 @@ hash = "bb9412b0160a83a06da8c80d5a802630dbb1a64f2961005043c4caa4e454200f"
 metafile = true
 
 [[files]]
-file = "mods/c2me.pw.toml"
-hash = "ce8e8a52fcf5642ccfe5af600ce3faaadc4aff69e20b604283734bbdc7a24086"
-metafile = true
-
-[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
 metafile = true
@@ -750,11 +745,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "030c615d6b35ec70f4fbe8cb782512deb05362378ab6ca838874b4490343bc7b"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
 
 [[files]]
