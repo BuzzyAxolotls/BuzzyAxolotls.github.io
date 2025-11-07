@@ -1,0 +1,13 @@
+name = "FriendPack"
+author = "BuzzyAxolotl"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "87feb1c420833ed289dcd904be6bddae9471095dc7126a70c8b11c386da67e46"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.213"
