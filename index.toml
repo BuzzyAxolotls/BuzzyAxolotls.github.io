@@ -643,11 +643,6 @@ hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
 metafile = true
 
 [[files]]
-file = "mods/guide-api-village-and-pillage.pw.toml"
-hash = "eddb0074ecd0a35a1f5692763d4596682d67172bcbb63c77d4108f22111c4bd7"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
 metafile = true
@@ -785,16 +780,6 @@ metafile = true
 [[files]]
 file = "mods/twilight-forest-the-lost-blocks.pw.toml"
 hash = "70198d946d3c1b01ab04fffa1f3038c17b714a7daa1f083b5fcbb499b6940224"
-metafile = true
-
-[[files]]
-file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "5bafc8368719ff14b6ffaf69ad555ba6e05f4c00cd31593559847e5d32c4d7ca"
-metafile = true
-
-[[files]]
-file = "mods/werewolves-become-a-beast.pw.toml"
-hash = "8c2836cb08681540a31de4dd7713537dc2a0ea1270d3a6d646a81486c62b5c96"
 metafile = true
 
 [[files]]
