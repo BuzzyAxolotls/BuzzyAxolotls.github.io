@@ -1,0 +1,13 @@
+name = "fuckingvanilla"
+author = "me"
+version = "no"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "aeb8e621b664bccd3932a0fb85f286ea6064437244cdf0410968a198e93c4b98"
+
+[versions]
+fabric = "0.18.0"
+minecraft = "1.21.10"
