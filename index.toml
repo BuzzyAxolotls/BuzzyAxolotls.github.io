@@ -242,6 +242,11 @@ hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "6aaf164ef5814c27ea31daf843775905961dec553b1baf0bfa5afab23e4bb5ae"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "a44c5f37ba55dd8ac2924df90283724538b4f6ecdb6f813e287175bbb88623f8"
 metafile = true
