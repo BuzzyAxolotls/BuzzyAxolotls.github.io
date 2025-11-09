@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/.puzzle_cache/mojangstudios.png"
+hash = "27d2a588a33e94aff8cea4ea6090509ab3e10640f980e63dfd317c6b0dcd30df"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
@@ -38,7 +42,7 @@ hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "5923af5b471a6d30eaba800e030c014784761343f907a5ada5da2d9535449835"
+hash = "f7c91ae007c2be5a041fe453c5219b1ff16ec84817da2de66408169ca4df848a"
 
 [[files]]
 file = "config/fallingleaves2.json"
@@ -91,6 +95,10 @@ hash = "21db3cc864a2621fbc8a1d04289d1ce28ee05dcf26be837f91b8d09aefd94a75"
 [[files]]
 file = "config/particlerain.json"
 hash = "417f2b20e1243a1ec2f8bea4e558f43b66182f446ecdb3f29a33b015b882f752"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "45ce0f0b227d11ae4e130214c14e7ce0cd78437066e95cb67f5227edda8da561"
 
 [[files]]
 file = "config/refurbished_furniture.client.toml"
