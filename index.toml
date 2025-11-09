@@ -378,3 +378,12 @@ hash = "c76c2ab0d7080ec6110b9d21b11386724caa3f7c9399138f6b6fe8e93d0038e8"
 [[files]]
 file = "servers.dat"
 hash = "695553802696c22d8620bbc3ccc46caee2a0140ffd5fd93bdea93f2c0c7bf7b3"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip.txt"
+hash = "29c189f84e2ceb6549cf7e8ee0b5802e30e0b646944576fd5710c05e6c7e3382"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+metafile = true
