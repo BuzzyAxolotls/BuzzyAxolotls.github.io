@@ -1,2 +1,0 @@
-#Enable curses. When disabled, rituals that apply curses will not function.
-enableCurses = true
