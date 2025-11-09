@@ -332,6 +332,11 @@ hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
 metafile = true
 
 [[files]]
+file = "mods/splashfox.pw.toml"
+hash = "cde85f8d2404196ca63e6b2d5408408c44358990f51cc2ec442ddfae6aa54eb9"
+metafile = true
+
+[[files]]
 file = "mods/strawberrylib.pw.toml"
 hash = "6dd9ca3f03b9264c869bf39bdfc7e9eaf5e3a9dad0b711dae239899f093d0530"
 metafile = true
