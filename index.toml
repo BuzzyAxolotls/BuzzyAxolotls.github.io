@@ -1,6 +1,146 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "03737bf293d2e2754a8a72d38183b4713cb0e014574711aec38d75cfccce9b44"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "5923af5b471a6d30eaba800e030c014784761343f907a5ada5da2d9535449835"
+
+[[files]]
+file = "config/fallingleaves2.json"
+hash = "cb9d4d481a63cddaf7e90a3e3f8c5bb134cd0be8f1401b1f808c55bf0ab4572f"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "d9dbf869e3879f7ac4fc5b40073eacaeaafa35d4cd693e9884005e932f92b47d"
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/lootr.json"
+hash = "1c0fbe0965bdfb1271b7be90e86bc4fbd9114bb768fc0a4995da0f3621531bfc"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/modelfix-client.json"
+hash = "7e02c1d587a4c011b0b18080b7ba7451bd44535159a52c4c0c9a94b863334678"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "41ea02550d527fd2bcd45e054cda700dc0a48ce177098017b00ab68b7c00befc"
+
+[[files]]
+file = "config/nycto.json"
+hash = "7ed6780c3bd92382e048b33cfe61bb1b4687db8c584f7257f2704bea113c93e4"
+
+[[files]]
+file = "config/pal.properties"
+hash = "21db3cc864a2621fbc8a1d04289d1ce28ee05dcf26be837f91b8d09aefd94a75"
+
+[[files]]
+file = "config/particlerain.json"
+hash = "417f2b20e1243a1ec2f8bea4e558f43b66182f446ecdb3f29a33b015b882f752"
+
+[[files]]
+file = "config/refurbished_furniture.client.toml"
+hash = "7809f409eb6312421d1aeffa1ddfb3d8e12436552418934de548102ee7d2a2ec"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "980b9889cf6a14d2df8cd14c269b307b48743afeadaa38d14395f1c8d9e874db"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "2f7a8080666bd92245c8c88fe3356f1357b3498892523a45b807902e03efdee0"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "4828be16073e849d94c5a38518f1a2f91b81d2622eb564117d0e54051a24afc2"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "d3482af3895ad31a3b9c59b26807eb9944ede706b3d314668ad83c94d61bd195"
+
+[[files]]
+file = "config/toms_storage.json"
+hash = "fe9bba01d323a80ceb0752143bb717708110ab6d8d3c87b32055728f81366a0d"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "a99e3621e596568df6f96dda62eb82bb1d781e716d6b934c04b3500f7bab1948"
+
+[[files]]
+file = "config/visuality.json"
+hash = "1561b99ae57ede995dfb64a91ac5b53dd877f57e4a8f1859526da84511bcec07"
+
+[[files]]
+file = "config/waveycapes.json"
+hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
 file = "gitattributes.txt"
 hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
 
@@ -119,6 +259,11 @@ hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "978c05608ae60f7e40925d145910c124bb90db5db0ea8f8786fccd677eced4d6"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1600b1e64b297d68bafb4f5e5eeef08117645ac24922696da10c711ae587c06b"
 metafile = true
@@ -172,6 +317,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c76c2ab0d7080ec6110b9d21b11386724caa3f7c9399138f6b6fe8e93d0038e8"
 
 [[files]]
 file = "servers.dat"
