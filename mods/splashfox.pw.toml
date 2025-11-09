@@ -1,0 +1,13 @@
+name = "SplashFox"
+filename = "splashfox-1.2.1+1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/a59NK2Js/versions/SUHNS7VE/splashfox-1.2.1%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "62fbc00ae4294beb3be01d2325841cd89212fe7bffc0f2ce70eb27f8b80ac635a4ba8d204a9f14f1f17038db2f57565f0b256fb0fed109303959ff4be0d3e3bc"
+
+[update]
+[update.modrinth]
+mod-id = "a59NK2Js"
+version = "SUHNS7VE"
