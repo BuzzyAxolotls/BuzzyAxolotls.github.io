@@ -167,6 +167,11 @@ hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "2a138f455ec59c5be9d421370d8e168279fb94833c62d76db06431e429377be4"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "731284bbfcd8900314bac3244877a4dd7688f14b7142af41d7dc5bd6250dd12d"
 metafile = true
@@ -187,6 +192,16 @@ hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
 metafile = true
 
 [[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "75c9ddc7d95af7f17845cf2b003e14372604047c62366c8189d0e0f8e13f15e8"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "8c117840c9566bdaa85ecc674ed99452bfc2b13ae9f14f908f334948f30e952e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
 metafile = true
@@ -194,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b51659a7fdd17e134028a747bd8e4e8fb9ab9d88038577d088049a5c381f09dc"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
@@ -209,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "b367b77f4e5732c0a486c41fe244c8206554947f11ffd5050df373ebdb0f2f03"
+metafile = true
+
+[[files]]
+file = "mods/image2map.pw.toml"
+hash = "a5af3e792b9960895303a582f0fd14608ed3e39aae0aafc4a1ffa47a09808188"
 metafile = true
 
 [[files]]
