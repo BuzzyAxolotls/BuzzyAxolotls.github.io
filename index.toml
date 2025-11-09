@@ -277,6 +277,11 @@ hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
 file = "mods/nycto.pw.toml"
 hash = "3e92bcbbca81a9982a3bc8738fb7c4fcf51e61fd969b6221de7e5ec1e8ee0de5"
 metafile = true
@@ -304,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "c50770300b6a02a0dec46e4915cd11167030d5a3c2b41bfe3dff6ceb7c87a14a"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
