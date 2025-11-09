@@ -1,0 +1,13 @@
+name = "Nycto"
+filename = "nycto-1.21.10-b5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tnTEDxIj/versions/wg7Fng7z/nycto-1.21.10-b5.jar"
+hash-format = "sha512"
+hash = "74604c70fc6c7f22bdb96e397f2f0146a4540c5b9f352659c4b71f14cbc976b68f7e2a65b9671e955f30426fdb22501481b78dd58a1e2a920d3fc4bc67cc13e9"
+
+[update]
+[update.modrinth]
+mod-id = "tnTEDxIj"
+version = "wg7Fng7z"
