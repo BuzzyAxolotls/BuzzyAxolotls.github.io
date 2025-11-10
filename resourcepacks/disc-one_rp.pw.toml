@@ -1,9 +1,0 @@
-name = "disc-one_rp"
-filename = "disc-one_rp.zip"
-side = "client"
-
-[download]
-url = "https://github.com/BuzzyAxolotls/BuzzyAxolotls.github.io/raw/refs/heads/test-2/disc-one_rp.zip"
-
-hash-format = "sha512"
-hash = "997e31c038f4e653bca3f5ef7bc7c35326b6bccc936bee2a0f234793017cbe9121eaf0b877c972e993d548b89960354246628a9ea25100bda830ad278857dfaa"
