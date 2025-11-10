@@ -416,11 +416,6 @@ file = "options.txt"
 hash = "c76c2ab0d7080ec6110b9d21b11386724caa3f7c9399138f6b6fe8e93d0038e8"
 
 [[files]]
-file = "resourcepacks/disc-one_rp.pw.toml"
-hash = "d2d5ea8cf8dc7a16d14d198142583044e7713b9c24ee00b9d72a79c62dbbbfae"
-metafile = true
-
-[[files]]
 file = "servers.dat"
 hash = "695553802696c22d8620bbc3ccc46caee2a0140ffd5fd93bdea93f2c0c7bf7b3"
 
