@@ -207,6 +207,11 @@ hash = "dc8c8875df13a1d427654d3490ce2bf9e2cf4de9d7ca72926c52e4b8f681ff69"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "4aec48b176bf12adbbae1c55152db40a46ba59a8f746b44f60f3d681cbb19258"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
 metafile = true
