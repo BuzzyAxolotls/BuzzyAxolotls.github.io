@@ -292,6 +292,21 @@ hash = "293600463624c49753887a511354cf5d7acd0b57eb528f7b5c4957d16b4e121d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "b80f82fb21a053af22776bec043f88ec3d3d7081864fd5f172740b03bf899f4f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "fc47e598bb53450fba6dbe82987b344b95ae8af09811241a96f9f07ddfebc00b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "b30c3b7e15aa8c78fda4cfeac5484ea603934afc88579627fed23dfc4a68dbdf"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
