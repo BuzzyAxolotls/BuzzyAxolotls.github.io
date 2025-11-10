@@ -167,6 +167,11 @@ hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
 
 [[files]]
+file = "mods/auroraslanterns.pw.toml"
+hash = "95680d4865b3f79ade9239ec18d33d69b8b65848dbe103813e7618d60d7d3dda"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-buckets.pw.toml"
 hash = "2a138f455ec59c5be9d421370d8e168279fb94833c62d76db06431e429377be4"
 metafile = true
