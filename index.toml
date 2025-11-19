@@ -212,6 +212,11 @@ hash = "4aec48b176bf12adbbae1c55152db40a46ba59a8f746b44f60f3d681cbb19258"
 metafile = true
 
 [[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "45440f24a522c3ff0dbd5493a0c5e797a03a4daa9bf81ccd6e8e426b366e0a0d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
 metafile = true
@@ -294,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "293600463624c49753887a511354cf5d7acd0b57eb528f7b5c4957d16b4e121d"
+metafile = true
+
+[[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "15db5f61df75421835cab240ec72a8eaed710d5d06c421e9a564dd29f070eb1d"
 metafile = true
 
 [[files]]
